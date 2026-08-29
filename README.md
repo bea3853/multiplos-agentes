@@ -1,2 +1,2 @@
 # multiplos-agentes
-![Descrição da imagem](arquitetura de multiplos agentes.png)
+![Descrição da imagem](arquitetura.jpg)
